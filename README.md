@@ -92,14 +92,12 @@ Project Review           : milestone, des31, 2023-11-21, 0d
 ## KIKIMETER 📈
 
 <!-- BEGIN MERMAID -->
-    
 ```mermaid
 pie
-title Number of line of codes per user
-"Fred" : 100
-"Jules" : 100
-"Jonathan" : 100
-"Clément" : 0
+title Lines Committed by Contributors
+"Jovillios" : 466
+"jonathanlys01" : 1682
+"NewS0ul" : 1885
+"ClementBLV" : 373
 ```
-
 <!-- END MERMAID -->
