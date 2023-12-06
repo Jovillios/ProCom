@@ -99,7 +99,7 @@ pie
 title Lines Committed by Contributors
 "jonathanlys01" : 3376
 "Jovillios" : 466
-"NewS0ul" : 2428
+"NewS0ul" : 2589
 "ClementBLV" : 373
 ```
 <!-- END MERMAID -->
