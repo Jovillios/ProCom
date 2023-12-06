@@ -97,9 +97,9 @@ This is a line
 ```mermaid
 pie
 title Lines Committed by Contributors
+"jonathanlys01" : 3376
 "Jovillios" : 466
-"jonathanlys01" : 1682
-"NewS0ul" : 1885
+"NewS0ul" : 2428
 "ClementBLV" : 373
 ```
 <!-- END MERMAID -->
